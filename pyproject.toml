@@ -9,7 +9,7 @@ dependencies = [
     "autopep8>=2.3.2",
     "flax>=0.10.4",
     "ipython>=9.0.1",
-    "jax[cuda12]>=0.5.1",
+    "jax[cuda12]==0.5.0",
     "jupyterlab>=4.3.5",
     "matplotlib>=3.10.1",
     "optax>=0.2.4",
