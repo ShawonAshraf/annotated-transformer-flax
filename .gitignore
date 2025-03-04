@@ -12,3 +12,7 @@ wheels/
 # editors
 .idea/
 .vscode/
+
+# cache
+.mypy_cache/
+.ruff_cache/
