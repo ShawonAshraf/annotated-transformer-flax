@@ -1,0 +1,7 @@
+[project]
+name = "transformer-flax"
+version = "0.1.0"
+description = "implementation of transformer architecture using flax and jax"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
