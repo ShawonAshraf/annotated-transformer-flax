@@ -16,3 +16,6 @@ dependencies = [
     "orbax>=0.1.9",
     "pandas>=2.2.3",
 ]
+
+[tool.uv]
+package = true
