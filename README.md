@@ -1,3 +1,3 @@
-# transformer-flax
+# annotated-transformer-flax
 
-implementation of transformer architecture using flax and jax
+replicating the annotated transformer notebook using flax and jax transforms
