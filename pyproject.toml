@@ -18,6 +18,7 @@ dependencies = [
     "optax>=0.2.4",
     "orbax>=0.1.9",
     "pandas>=2.2.3",
+    "vl-convert-python>=1.7.0",
 ]
 
 [dependency-groups]

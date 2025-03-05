@@ -16,3 +16,6 @@ wheels/
 # cache
 .mypy_cache/
 .ruff_cache/
+
+# output images
+enc.png
